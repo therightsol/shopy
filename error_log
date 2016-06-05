@@ -1,0 +1,1 @@
+[23-May-2016 19:03:14 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 3072 bytes) in /home/theright/public_html/shopy/wp-content/plugins/yith-woocommerce-zoom-magnifier-premium-1211/yit-common/yit-functions.php on line 171

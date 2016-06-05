@@ -1,0 +1,9 @@
+@media screen and ( max-width: 480px ) {
+
+    .chat-widget,
+    .chat-chat-btn {
+        right: 0;
+        width: 100%;
+    }
+
+}

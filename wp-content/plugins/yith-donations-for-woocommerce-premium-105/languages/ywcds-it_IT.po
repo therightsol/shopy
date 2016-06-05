@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH  WooCommerce Donations\n"
+"POT-Creation-Date: 2015-09-05 13:22+0200\n"
+"PO-Revision-Date: 2015-09-15 14:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/classes/class.yith-custom-table.php:120
+#: ../templates/admin/export-tab.php:17
+msgid "From"
+msgstr "Da"
+
+#: ../includes/classes/class.yith-custom-table.php:122
+#: ../templates/admin/export-tab.php:30
+msgid "To"
+msgstr "A"
+
+#: ../includes/classes/class.yith-custom-table.php:127
+msgid "Filter"
+msgstr "Applica filtro"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:95
+msgid "Products & Donations"
+msgstr "Prodotti & Donazioni"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:96
+msgid "Labels"
+msgstr "Etichette"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:97
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:98
+msgid "Report"
+msgstr "Report"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:318
+#: ../includes/classes/class.yith-woocommerce-donations.php:596
+msgid "View Cart"
+msgstr "Visualizza carrello"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:493
+msgid "Invalid Add to cart"
+msgstr "Aggiungi al carrello non è valido"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:546
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:555
+msgid "You can't update the cart"
+msgstr "Non è possibile aggiornare il carrello"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:753
+msgid "Add YITH Donations for WooCommerce  Form"
+msgstr "Aggiungi YITH Donations for WooCommerce - Modulo"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:880
+#, php-format
+msgid "Donation ( %s ) removed"
+msgstr "Donazione ( %s ) rimossa"
+
+#: ../includes/classes/class.yith-woocommerce-donations-premium.php:909
+#, php-format
+msgid "%s and all donations have been removed"
+msgstr "%s e tutte le donazioni sono state rimosse"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:121
+#: ../includes/classes/class.yith-woocommerce-donations.php:208
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:123
+msgid "Premium live demo"
+msgstr "Anteprima premium"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:123
+msgid "Live demo"
+msgstr "Anteprima"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:128
+#: ../includes/classes/class.yith-woocommerce-donations.php:209
+msgid "Premium Version"
+msgstr "Versione Premium"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:215
+#: ../includes/classes/class.yith-woocommerce-donations.php:216
+msgid "Donations"
+msgstr "Donations"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:250
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Un risultato disponibile, premi invio per selezionarlo."
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:251
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% risultati disponibili, utilizza i tasti su e giù per muoverti."
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:252
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Nessun risultato"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:253
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Caricamento non riuscito"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:254
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Inserisci 1 o più caratteri"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:255
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Inserisci %qty% o più caratteri"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:256
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Cancella 1 carattere"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:257
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Cancella %qty% caratteri"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:258
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Puoi selezionare solo 1 articolo"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:259
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Puoi selezionare solo %qty% articoli"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:260
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Sto caricando più risultati&hellip;"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:261
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Cerco&hellip;"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:311
+msgid "YITH Donations for WooCommerce"
+msgstr "YITH Donations for WooCommerce"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:344
+#: ../plugin-options/messages-options.php:54
+#: ../plugin-options/messages-options.php:55
+msgid "Please enter a valid value"
+msgstr "Inserisci un valore riconosciuto"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:345
+msgid "Please enter a number"
+msgstr "Inserisci un numero"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:346
+msgid "You have already added a donation to the cart"
+msgstr "Hai già aggiunto una donazione al carrello"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:347
+#: ../plugin-options/messages-options.php:34
+#: ../plugin-options/messages-options.php:35
+msgid "Thanks for your donation"
+msgstr "Grazie per la tua donazione"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:348
+msgid "Add a donation"
+msgstr "Aggiungi una donazione"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:349
+#: ../plugin-options/messages-options.php:63
+#: ../plugin-options/messages-options.php:64
+msgid "Please enter a number greater than 0"
+msgstr "Inserisci un numero maggiore di 0"
+
+#: ../includes/classes/class.yith-woocommerce-donations.php:515
+#, php-format
+msgid "Donation ( %s )"
+msgstr "Donazione ( %s )"
+
+#: ../includes/emails/class.ywcds-donations-email.php:13
+msgid "YITH Donations"
+msgstr "YITH Donations"
+
+#: ../includes/widgets/class.yith-wc-donations-form-widget.php:14
+msgid "YITH Donations for WooCommerce - Form"
+msgstr "YITH Donations for WooCommerce - Modulo"
+
+#: ../includes/widgets/class.yith-wc-donations-form-widget.php:15
+msgid "Add a simple form to let your customers add donations to the cart!"
+msgstr ""
+"Aggiungi un modulo per permettere agli utenti di aggiungere donazioni al "
+"carrello!"
+
+#: ../includes/widgets/class.yith-wc-donations-form-widget.php:29
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:31
+msgid "Title"
+msgstr "Titolo"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:14
+msgid "YITH Donations for WooCommerce - Summary"
+msgstr "YITH Donations for WooCommerce - Riepilogo"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:15
+msgid "Show users the number of donations made so far!"
+msgstr "Mostra agli utenti il numero di donazioni effettuate fino ad ora!"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:36
+msgid "Show donations of"
+msgstr "Mostra donazioni effettuate"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:38
+#: ../plugin-options/messages-options.php:108
+msgid "Today"
+msgstr "Oggi"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:39
+msgid "Last week"
+msgstr "Scorsa settimana"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:40
+msgid "Last month"
+msgstr "Mese scorso"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:41
+msgid "This month"
+msgstr "Questo mese"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:42
+msgid "Last year"
+msgstr "Scorso anno"
+
+#: ../includes/widgets/class.yith-wc-donations-summary-widget.php:43
+msgid "Ever"
+msgstr "Da sempre"
+
+#: ../init.php:46
+msgid ""
+"YITH Donations for WooCommerce Premium is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH Donations for WooCommerce Premium è abilitato ma non in funzione. Devi "
+"aver installato WooCommerce perché questo possa funzionare correttamente."
+
+#: ../plugin-options/mail-options.php:5
+msgid "Thank you for your donation!"
+msgstr "Grazie per la tua donazione!"
+
+#: ../plugin-options/mail-options.php:7
+msgid "Dear"
+msgstr "Caro/a"
+
+#: ../plugin-options/mail-options.php:8
+msgid "thank you so much for the donation in your order"
+msgstr "ti ringraziamo per la donazione aggiunta al tuo ordine"
+
+#: ../plugin-options/mail-options.php:9
+msgid "We would like to remind you of your donations"
+msgstr "Ti ricordiamo qui di seguito tutte le tue donazioni"
+
+#: ../plugin-options/mail-options.php:10
+msgid "Thank you again for your kindness and your generosity"
+msgstr "Ti ringraziamo ancora per la tua gentilezza e generosità"
+
+#: ../plugin-options/mail-options.php:11
+msgid "We hope to see you again on our site"
+msgstr "Speriamo che tornerai presto a visitarci"
+
+#: ../plugin-options/mail-options.php:12
+msgid "Best regards"
+msgstr "Cordiali saluti"
+
+#: ../plugin-options/mail-options.php:16
+msgid "You can use these placeholders"
+msgstr "Puoi utilizzare questi segnaposto"
+
+#: ../plugin-options/mail-options.php:17
+msgid "{site_title} replaced with site title"
+msgstr "{site_title} per inserire il nome del sito"
+
+#: ../plugin-options/mail-options.php:18
+msgid "{donation_list} replaced with donation details"
+msgstr "{donation_list} per inserire i dettagli della donazione"
+
+#: ../plugin-options/mail-options.php:19
+msgid "{customer_name} replaced with with customer's name"
+msgstr "{customer_name} per inserire il nome del cliente"
+
+#: ../plugin-options/mail-options.php:20
+msgid "{customer_email} replaced with customer's email address"
+msgstr "{customer_email} per inserire l’indirizzo email del cliente"
+
+#: ../plugin-options/mail-options.php:21
+msgid "{order_id} replaced with order ID"
+msgstr "{order_id} per inserire l 'ID dell 'ordine"
+
+#: ../plugin-options/mail-options.php:22
+msgid "{order_date} replaced with the date and time of the order"
+msgstr "{order_date} per inserire la data e l ’ora dell ’ordine"
+
+#: ../plugin-options/mail-options.php:23
+msgid ""
+"{order_date_completed} Replaced with the date on which the order was marked "
+"completed"
+msgstr ""
+"{order_date_completed} per inserire la data in cui l’ordine è stato "
+"completato"
+
+#: ../plugin-options/mail-options.php:31
+msgid "Email Settings"
+msgstr "Impostazioni email"
+
+#: ../plugin-options/mail-options.php:37
+msgid "Email Type"
+msgstr "Tipo email"
+
+#: ../plugin-options/mail-options.php:40
+msgid "HTML"
+msgstr "HTML"
+
+#: ../plugin-options/mail-options.php:41
+msgid "Plain Text"
+msgstr "Testuale"
+
+#: ../plugin-options/mail-options.php:49
+msgid "Email Subject"
+msgstr "Oggetto email"
+
+#: ../plugin-options/mail-options.php:59
+msgid "Email Content"
+msgstr "Contenuto email"
+
+#: ../plugin-options/mail-options.php:69
+msgid "Email template"
+msgstr "Template email"
+
+#: ../plugin-options/mail-options.php:73
+msgid "WooCommerce Template"
+msgstr "Template WooCommerce"
+
+#: ../plugin-options/mail-options.php:74
+msgid "YITH Donations Template"
+msgstr "Template YITH Donations"
+
+#: ../plugin-options/messages-options.php:6
+msgid "Minimum donation allowed is"
+msgstr "Il minimo per questa donazione è"
+
+#: ../plugin-options/messages-options.php:10
+msgid "Maximum donation allowed is"
+msgstr "Il massimo per questa donazione è"
+
+#: ../plugin-options/messages-options.php:18
+msgid "Donation label settings"
+msgstr "Impostazioni etichetta donazione"
+
+#: ../plugin-options/messages-options.php:23
+msgid "Message attached to your donation"
+msgstr "Messaggio allegato alla tua donazione"
+
+#: ../plugin-options/messages-options.php:25
+#: ../plugin-options/messages-options.php:26
+msgid "Make a donation"
+msgstr "Fa\\’ una donazione"
+
+#: ../plugin-options/messages-options.php:32
+msgid "Thank you message"
+msgstr "Messaggio di ringraziamento"
+
+#: ../plugin-options/messages-options.php:42
+msgid "Text displayed when donation field is empty"
+msgstr "Testo visualizzato quando il campo donazione è vuoto"
+
+#: ../plugin-options/messages-options.php:43
+msgid "Please enter an amount"
+msgstr "Inserisci un importo"
+
+#: ../plugin-options/messages-options.php:44
+msgid "Please enter amount"
+msgstr "Inserisci importo"
+
+#: ../plugin-options/messages-options.php:51
+msgid "Text displayed when donation field is invalid"
+msgstr "Testo visualizzato quando il campo donazione non è valido"
+
+#: ../plugin-options/messages-options.php:60
+msgid "Text displayed when donation field value is negative"
+msgstr "Testo visualizzato quando il campo donazione è negativo"
+
+#: ../plugin-options/messages-options.php:68
+msgid "Text displayed for minimum donation required"
+msgstr "Testo visualizzato per importo minimo richiesto"
+
+#: ../plugin-options/messages-options.php:73
+msgid "{min_donation} is replaced with minimum donation required"
+msgstr "{min_donation} per inserire un importo minimo richiesto"
+
+#: ../plugin-options/messages-options.php:78
+msgid "Text displayed for maximum donation allowed"
+msgstr "Testo visualizzato per importo massimo consentito"
+
+#: ../plugin-options/messages-options.php:83
+msgid "{max_donation} is replaced with maximum donation allowed"
+msgstr "{max_donation} per inserire un importo massimo consentito"
+
+#: ../plugin-options/messages-options.php:87
+msgid "Text displayed for compulsory donation"
+msgstr "Testo visualizzato per donazione obbligatoria"
+
+#: ../plugin-options/messages-options.php:90
+#: ../plugin-options/messages-options.php:91
+msgid "Sorry but for this product you must have added a donation first"
+msgstr "Ci dispiace, ma per questo prodotto devi aggiungere una donazione"
+
+#: ../plugin-options/messages-options.php:101
+msgid "Customize text of the labels shown in the Widget \"Summary\""
+msgstr "Personalizza il testo delle etichette mostrate nel widget “Riepilogo”"
+
+#: ../plugin-options/messages-options.php:110
+#: ../plugin-options/messages-options.php:111
+msgid "Today we have collected"
+msgstr "Oggi abbiamo raccolto"
+
+#: ../plugin-options/messages-options.php:116
+msgid "Year"
+msgstr "Anno"
+
+#: ../plugin-options/messages-options.php:118
+#: ../plugin-options/messages-options.php:119
+msgid "This year we have collected"
+msgstr "Quest\\’anno abbiamo raccolto"
+
+#: ../plugin-options/messages-options.php:125
+msgid "Last 7 days"
+msgstr "Ultimi 7 giorni"
+
+#: ../plugin-options/messages-options.php:127
+#: ../plugin-options/messages-options.php:128
+msgid "In the last 7 days we have collected"
+msgstr "Negli ultimi 7 giorni abbiamo raccolto"
+
+#: ../plugin-options/messages-options.php:133
+msgid "Month"
+msgstr "Mese"
+
+#: ../plugin-options/messages-options.php:135
+#: ../plugin-options/messages-options.php:136
+msgid "This month we have collected"
+msgstr "In questo mese abbiamo raccolto"
+
+#: ../plugin-options/messages-options.php:142
+msgid "Last Month"
+msgstr "Ultimo mese"
+
+#: ../plugin-options/messages-options.php:144
+#: ../plugin-options/messages-options.php:145
+msgid "In the last month we collected"
+msgstr "Nell\\’ultimo mese abbiamo raccolto"
+
+#: ../plugin-options/messages-options.php:150
+msgid "Always"
+msgstr "Sempre"
+
+#: ../plugin-options/messages-options.php:152
+#: ../plugin-options/messages-options.php:153
+msgid "So far we have collected"
+msgstr "Finora abbiamo raccolto"
+
+#: ../plugin-options/settings-options.php:10
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: ../plugin-options/settings-options.php:17
+msgid "Show in Cart "
+msgstr "Mostra nel carrello"
+
+#: ../plugin-options/settings-options.php:18
+msgid "Show donation form in cart"
+msgstr "Mostra modulo donazione nel carrello"
+
+#: ../plugin-options/settings-options.php:27
+msgid "Minimun Donation Required"
+msgstr "Donazione minima richiesta"
+
+#: ../plugin-options/settings-options.php:38
+msgid "Maximun Donation Allowed"
+msgstr "Donazione massima consentita"
+
+#: ../plugin-options/settings-options.php:49
+msgid "Payment method"
+msgstr "Metodo di pagamento"
+
+#: ../plugin-options/settings-options.php:50
+msgid "Select payment method for donations"
+msgstr "Selezione il metodo di pagamento per le donazioni"
+
+#: ../plugin-options/settings-options.php:65
+msgid "click here"
+msgstr "premi qui"
+
+#: ../plugin-options/settings-options.php:66
+msgid ""
+"To let the plugin work correctly, a special product has been created to let "
+"you manage your donations. "
+msgstr ""
+"Per far sì che il plugin funzioni correttamente, è stato creato un prodotto "
+"speciale che ti permette di gestire le donazioni. "
+
+#: ../plugin-options/settings-options.php:67
+msgid " Show it"
+msgstr " Mostralo"
+
+#: ../plugin-options/settings-options.php:78
+msgid "Button settings"
+msgstr "Impostazioni pulsante"
+
+#: ../plugin-options/settings-options.php:84
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+#: ../plugin-options/settings-options.php:85
+msgid "Set a text for your donation button"
+msgstr "Inserisci un testo per il pulsante donazione"
+
+#: ../plugin-options/settings-options.php:87
+#: ../plugin-options/settings-options.php:88
+msgid "Add Donation"
+msgstr "Aggiungi donazione"
+
+#: ../plugin-options/settings-options.php:93
+msgid "Button Style"
+msgstr "Stile pulsante"
+
+#: ../plugin-options/settings-options.php:96
+msgid "WooCommerce Style"
+msgstr "Stile WooCommerce"
+
+#: ../plugin-options/settings-options.php:97
+msgid "Custom Style"
+msgstr "Stile personalizzato"
+
+#: ../plugin-options/settings-options.php:105
+msgid "Button Typography"
+msgstr "Tipografia pulsante"
+
+#: ../plugin-options/settings-options.php:117
+msgid "Button Text Color"
+msgstr "Colore testo pulsante"
+
+#: ../plugin-options/settings-options.php:125
+msgid "Button Background Color"
+msgstr "Colore pulsante"
+
+#: ../plugin-options/settings-options.php:133
+msgid "Button Text Hover Color"
+msgstr "Colore testo pulsante hover"
+
+#: ../plugin-options/settings-options.php:141
+msgid "Button Background Hover Color"
+msgstr "Colore pulsante hover"
+
+#: ../templates/admin/export-tab.php:6
+msgid "Export Settings"
+msgstr "Impostazioni di esportazione"
+
+#: ../templates/admin/export-tab.php:24
+msgid ""
+"Choose starting date. Leave it unselected to start from the first item found."
+msgstr ""
+"Scegli la data di inizio. Non selezionare alcuna data per partire dal primo "
+"articolo trovato."
+
+#: ../templates/admin/export-tab.php:38
+msgid "Choose end date. Leave it unselected to end with the last item found."
+msgstr ""
+"Scegli una data di fine. Non selezionare alcuna data per concludere con l"
+"\\’ultimo articolo trovato."
+
+#: ../templates/admin/export-tab.php:46
+msgid "Export"
+msgstr "Esporta"
+
+#: ../templates/admin/lightbox.php:36
+msgid "Add shortcode"
+msgstr "Aggiungi shortcode"
+
+#: ../templates/admin/lightbox.php:105
+msgid "Insert Donation Form"
+msgstr "Inserisci modulo donazione"
+
+#: ../templates/admin/order-donation-table.php:38
+msgid "order"
+msgstr "ordine"
+
+#: ../templates/admin/order-donation-table.php:39
+msgid "orders"
+msgstr "ordini"
+
+#: ../templates/admin/order-donation-table.php:66
+msgid "Order"
+msgstr "Ordine"
+
+#: ../templates/admin/order-donation-table.php:67
+msgid "Purchased"
+msgstr "Acquistato"
+
+#: ../templates/admin/order-donation-table.php:68
+msgid "Ship to"
+msgstr "Spedisci a"
+
+#: ../templates/admin/order-donation-table.php:69
+msgid "Date"
+msgstr "Data"
+
+#: ../templates/admin/order-donation-table.php:70
+msgid "Total"
+msgstr "Totale"
+
+#: ../templates/admin/order-donation-table.php:102
+msgid "View order"
+msgstr "Visualizza ordine"
+
+#: ../templates/admin/order-donation-table.php:111
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d articolo"
+msgstr[1] "%d articoli"
+
+#: ../templates/admin/order-donation-table.php:154
+#: ../templates/admin/order-donation-table.php:174
+msgid "Via"
+msgstr "per"
+
+#: ../templates/admin/order-donation-table.php:196
+msgid "Donations list"
+msgstr "Elenco donazioni"
+
+#: ../templates/admin/product-donation-table.php:38
+msgid "product"
+msgstr "prodotto"
+
+#: ../templates/admin/product-donation-table.php:39
+msgid "products"
+msgstr "prodotti"
+
+#: ../templates/admin/product-donation-table.php:59
+msgid "Product"
+msgstr "Prodotto"
+
+#: ../templates/admin/product-donation-table.php:60
+msgid "View Donation"
+msgstr "Visualizza donazione"
+
+#: ../templates/admin/product-donation-table.php:61
+msgid "Compulsory Donation"
+msgstr "Donazione obbligatoria"
+
+#: ../templates/admin/product-donation-table.php:93
+msgid "Edit product list"
+msgstr "Modifica elenco prodotti"
+
+#: ../templates/admin/product-donation-table.php:94
+msgid "Remove from product list"
+msgstr "Rimuovi da elenco prodotti"
+
+#: ../templates/admin/product-donation-table.php:97
+msgid "Edit product"
+msgstr "Modifica prodotto"
+
+#: ../templates/admin/product-donation-table.php:103
+#: ../templates/admin/product-donation-table.php:116
+msgid "Yes"
+msgstr "Sì"
+
+#: ../templates/admin/product-donation-table.php:106
+#: ../templates/admin/product-donation-table.php:119
+msgid "No"
+msgstr "No"
+
+#: ../templates/admin/product-donation-table.php:128
+msgid "Remove from list"
+msgstr "Rimuovi da elenco"
+
+#: ../templates/admin/product-donation-table.php:168
+#, php-format
+msgid "%s product removed successfully"
+msgid_plural "%s products removed successfully"
+msgstr[0] "%s prodotto rimosso con successo"
+msgstr[1] "%s prodotti rimossi con successo"
+
+#: ../templates/admin/product-donation-table.php:191
+#, php-format
+msgid "%s product added successfully"
+msgid_plural "%s products added successfully"
+msgstr[0] "%s prodotto aggiunto con successo"
+msgstr[1] "%s prodotti aggiunti con successo"
+
+#: ../templates/admin/product-donation-table.php:195
+msgid "Product updated successfully"
+msgstr "Prodotto aggiornato con successo"
+
+#: ../templates/admin/product-donation-table.php:216
+msgid "Product list"
+msgstr "Elenco prodotti"
+
+#: ../templates/admin/product-donation-table.php:226
+msgid "Add Products"
+msgstr "Aggiungi prodotti"
+
+#: ../templates/admin/product-donation-table.php:245
+msgid "Products to associate"
+msgstr "Prodotti da associare"
+
+#: ../templates/admin/product-donation-table.php:268
+msgid "Set donation as compulsory"
+msgstr "Imposta donazione come obbligatoria"
+
+#: ../templates/admin/product-donation-table.php:278
+msgid "Add product"
+msgstr "Aggiungi prodotto"
+
+#: ../templates/admin/product-donation-table.php:282
+msgid "Update product"
+msgstr "Aggiorna prodotto"
+
+#: ../templates/admin/product-donation-table.php:285
+msgid "Return to product list"
+msgstr "Torna a elenco prodotti"
+
+#: ../templates/admin/product-donation-table.php:337
+msgid "Select at least one product"
+msgstr "Seleziona almeno un prodotto"
+
+#: ../templates/admin/typography.php:32
+msgid "px"
+msgstr "px"
+
+#: ../templates/admin/typography.php:33
+msgid "em"
+msgstr "em"
+
+#: ../templates/admin/typography.php:34
+msgid "pt"
+msgstr "pt"
+
+#: ../templates/admin/typography.php:35
+msgid "rem"
+msgstr "rem"
+
+#: ../templates/admin/typography.php:41
+msgid "Regular"
+msgstr "Normale"
+
+#: ../templates/admin/typography.php:42
+msgid "Bold"
+msgstr "Grassetto"
+
+#: ../templates/admin/typography.php:43
+msgid "Extra bold"
+msgstr "Grassetto extra"
+
+#: ../templates/admin/typography.php:44
+msgid "Italic"
+msgstr "Corsivo"
+
+#: ../templates/admin/typography.php:45
+msgid "Italic bold"
+msgstr "Grassetto corsivo"
+
+#: ../templates/admin/typography.php:51
+msgid "None"
+msgstr "Nessuno"
+
+#: ../templates/admin/typography.php:52
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: ../templates/admin/typography.php:53
+msgid "Uppercase"
+msgstr "Maiuscolo"
+
+#: ../templates/admin/typography.php:54
+msgid "Capitalize"
+msgstr "Iniziale maiuscola"

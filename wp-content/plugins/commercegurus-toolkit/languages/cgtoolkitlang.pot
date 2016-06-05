@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CommerceGurus Toolkit\n"
+"POT-Creation-Date: 2015-01-16 11:17-0000\n"
+"PO-Revision-Date: 2015-01-16 11:21-0000\n"
+"Last-Translator: CommerceGurus <support@commercegurus.com>\n"
+"Language-Team: CommerceGurus <support@commercegurus.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;_n;_x;esc_attr__;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/metaboxes/cmb\n"
+
+#: commercegurus-toolkit.php:167
+msgid "Settings"
+msgstr ""
+
+#: includes/metaboxes/logos.php:14
+msgid "Logo link destination"
+msgstr ""
+
+#: includes/metaboxes/logos.php:15
+msgid ""
+"Where the logo should link to. Please do not forget to include the http://"
+msgstr ""
+
+#: includes/metaboxes/logos.php:20
+msgid "Logo image"
+msgstr ""
+
+#: includes/metaboxes/logos.php:21 includes/metaboxes/testimonials.php:27
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: includes/metaboxes/shopannouncements.php:14
+msgid "Announcement background color"
+msgstr ""
+
+#: includes/metaboxes/shopannouncements.php:15
+msgid "The announcement has a solid background color"
+msgstr ""
+
+#: includes/metaboxes/shopannouncements.php:21
+msgid "Announcement text color"
+msgstr ""
+
+#: includes/metaboxes/shopannouncements.php:22
+msgid "The text color for the announcement"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:14
+msgid "Showcase url/link"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:15
+msgid ""
+"Where the showcase should link to. Please do not forget to include the "
+"http://"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:20
+msgid "Showcase url/link description"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:21
+msgid ""
+"This is the text description displayed when clicking on the showcase url/"
+"link."
+msgstr ""
+
+#: includes/metaboxes/showcases.php:26
+msgid "Showcase image gallery"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:27
+msgid "Upload images and they will be shown in a slideshow.."
+msgstr ""
+
+#: includes/metaboxes/showcases.php:33
+msgid "Showcase Video Source"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:34
+msgid ""
+"As an alternative to a Showcase image gallery, you can embed a showcase "
+"video."
+msgstr ""
+
+#: includes/metaboxes/showcases.php:38
+msgid "Youtube"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:39
+msgid "Vimeo"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:43
+msgid "Showcase Video ID"
+msgstr ""
+
+#: includes/metaboxes/showcases.php:44
+msgid ""
+"Copy the ID of the video (E.g. http://www.youtube.com/watch?"
+"v=<strong>Sv6dMFF_yts</strong>) you want to show.."
+msgstr ""
+
+#: includes/metaboxes/testimonials.php:14 includes/metaboxes/topreviews.php:14
+msgid "Name of person providing the testimonial"
+msgstr ""
+
+#: includes/metaboxes/testimonials.php:15 includes/metaboxes/topreviews.php:15
+msgid "This can also be anonymous"
+msgstr ""
+
+#: includes/metaboxes/testimonials.php:20 includes/metaboxes/topreviews.php:20
+msgid "Organization name"
+msgstr ""
+
+#: includes/metaboxes/testimonials.php:21 includes/metaboxes/topreviews.php:21
+msgid "Enter the organization your clients works for."
+msgstr ""
+
+#: includes/metaboxes/testimonials.php:26
+msgid "Testimonial Face Profile Image"
+msgstr ""
+
+#: includes/post-types/logos.php:4
+msgid "Logos"
+msgstr ""
+
+#: includes/post-types/logos.php:5
+msgid "Logo"
+msgstr ""
+
+#: includes/post-types/logos.php:6 includes/post-types/shopannouncements.php:6
+#: includes/post-types/showcases.php:7 includes/post-types/testimonials.php:6
+#: includes/post-types/topreviews.php:6
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/logos.php:7
+msgid "Add New Logo"
+msgstr ""
+
+#: includes/post-types/logos.php:8
+msgid "Edit Logo"
+msgstr ""
+
+#: includes/post-types/logos.php:9
+msgid "New Logo"
+msgstr ""
+
+#: includes/post-types/logos.php:10
+msgid "View Logo"
+msgstr ""
+
+#: includes/post-types/logos.php:11
+msgid "Search Logos"
+msgstr ""
+
+#: includes/post-types/logos.php:12
+msgid "No Logos found"
+msgstr ""
+
+#: includes/post-types/logos.php:13
+msgid "No Logos in trash"
+msgstr ""
+
+#: includes/post-types/logos.php:38
+msgid "Logo Name"
+msgstr ""
+
+#: includes/post-types/logos.php:39
+#: includes/post-types/shopannouncements.php:39
+#: includes/post-types/showcases.php:38
+#: includes/post-types/testimonials.php:39
+#: includes/post-types/topreviews.php:39
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:4
+msgid "Announcements"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:5
+msgid "Announcement"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:7
+msgid "Add New Announcement"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:8
+msgid "Edit Announcement"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:9
+msgid "New Announcement"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:10
+msgid "View Announcement"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:11
+msgid "Search Announcements"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:12
+msgid "No Announcements found"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:13
+msgid "No Announcements in trash"
+msgstr ""
+
+#: includes/post-types/shopannouncements.php:38
+msgid "Shop announcement Title"
+msgstr ""
+
+#: includes/post-types/showcases.php:4
+msgid "Showcases"
+msgstr ""
+
+#: includes/post-types/showcases.php:5
+msgid "Showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:6
+msgid "showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:8
+msgid "Add New Showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:9
+msgid "Edit Showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:10
+msgid "New Showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:11
+msgid "View Showcase"
+msgstr ""
+
+#: includes/post-types/showcases.php:12
+msgid "Search Showcases"
+msgstr ""
+
+#: includes/post-types/showcases.php:13
+msgid "No showcases found"
+msgstr ""
+
+#: includes/post-types/showcases.php:14
+msgid "No showcases found in Trash"
+msgstr ""
+
+#: includes/post-types/showcases.php:37
+msgid "Showcase Title"
+msgstr ""
+
+#: includes/post-types/testimonials.php:4
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:5
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:7
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:8
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:9
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:10
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:11
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:12
+msgid "No Testimonials found"
+msgstr ""
+
+#: includes/post-types/testimonials.php:13
+msgid "No Testimonials in trash"
+msgstr ""
+
+#: includes/post-types/testimonials.php:38
+msgid "Testimonial Title"
+msgstr ""
+
+#: includes/post-types/topreviews.php:4
+msgid "Top Reviews"
+msgstr ""
+
+#: includes/post-types/topreviews.php:5
+msgid "Top Review"
+msgstr ""
+
+#: includes/post-types/topreviews.php:7
+msgid "Add New Top Review"
+msgstr ""
+
+#: includes/post-types/topreviews.php:8
+msgid "Edit Top Review"
+msgstr ""
+
+#: includes/post-types/topreviews.php:9
+msgid "New Top Review"
+msgstr ""
+
+#: includes/post-types/topreviews.php:10
+msgid "View Top Review"
+msgstr ""
+
+#: includes/post-types/topreviews.php:11
+msgid "Search Top Reviews"
+msgstr ""
+
+#: includes/post-types/topreviews.php:12
+msgid "No Top Reviews found"
+msgstr ""
+
+#: includes/post-types/topreviews.php:13
+msgid "No Top Reviews in trash"
+msgstr ""
+
+#: includes/post-types/topreviews.php:38
+msgid "Top Review Title"
+msgstr ""
+
+#: includes/shortcodes/portfolio_slider.php:86
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:4
+msgid "Showcase Categories"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:5
+#: includes/taxonomies/showcasecategory.php:21
+msgid "Showcase Category"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:6
+msgid "Search Showcase Categories"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:7
+msgid "Popular Showcase Categories"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:8
+msgid "All Showcase Categories"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:11
+msgid "Edit Showcase Category"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:12
+msgid "Update Showcase Category"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:13
+msgid "Add New Showcase Category"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:14
+msgid "New Showcase Category Name"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:15
+msgid "Separate showcase categories with commas"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:16
+msgid "Add or remove showcase categories"
+msgstr ""
+
+#: includes/taxonomies/showcasecategory.php:17
+msgid "Choose from the most used showcase categories"
+msgstr ""
+
+#: uninstall.php:12
+#, php-format
+msgid "%s should only be called when uninstalling the plugin."
+msgstr ""
